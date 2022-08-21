@@ -7,11 +7,11 @@ USERS = {
 
 MODES = {
     # Classic mode, easy to detect
-    "classic": True,
+    "classic": False,
 
     # Makes the proxy harder to detect
     # Can be incompatible with very old clients
-    "secure": True,
+    "secure": False,
 
     # Makes the proxy even more hard to detect
     # Can be incompatible with old clients
