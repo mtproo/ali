@@ -20,7 +20,7 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "www.we-have.english"
+TLS_DOMAIN = "www.Yaldaer.ir"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "d1cd833e886347155cc292f899891ef7"
